@@ -1,0 +1,14 @@
+.header-of-habit{
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+}
+
+.habit-container > * {
+    padding: 1em;
+}
+.info-Of-habit{
+ padding-top: 1em;
+ display: flex;
+ justify-content: space-between;
+}
